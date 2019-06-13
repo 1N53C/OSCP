@@ -1,4 +1,4 @@
-# This little scripts bings all the ips in the lab env from xx.xx.xx.1 - xx.xx.xx.254.
+# This little scripts pings all the ips in the lab env from xx.xx.xx.1 - xx.xx.xx.254.
 # If a host responds, it automatically creates a directory with the specific name in 
 # the path the script is running.
 # Usage Example: ./create-lab-dirs.sh '10.11.1'"
